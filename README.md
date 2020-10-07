@@ -11,7 +11,7 @@ day.
 
 [![regression.png](https://i.postimg.cc/Wzv6WF2j/regression.png)](https://postimg.cc/ZBwd0qBD)
 
-![https://i.ytimg.com/vi/zTWtrynr7bU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAbQ2YJ1tQQPfB6t6VT9jzvxcDJTg](https://www.youtube.com/watch?v=zTWtrynr7bU)
+![https://www.youtube.com/watch?v=zTWtrynr7bU](https://i.ytimg.com/vi/zTWtrynr7bU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAbQ2YJ1tQQPfB6t6VT9jzvxcDJTg)
 
 ##### Problem 2 Unsupervised Machine Learning :
 
