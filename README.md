@@ -1,6 +1,6 @@
 # Live interaction [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/Grv-Singh/spark-foundation/master)
 
-## 3 Problem 1 Supervised Machine Learning :
+## Problem 1 Supervised Machine Learning :
 
 Predict the percentage of marks that a student is expected to score based upon the
 number of hours they studied. This is a simple linear
